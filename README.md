@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alands-offc
+- 👀 I’m interested in developer
+- 🌱 I’m currently learning nodejs
